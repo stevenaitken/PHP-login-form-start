@@ -43,9 +43,8 @@
 
         </form>
 
-        <p>This activity is in 4 parts. You will</p>
-
         <p>Using this file you will:</p>
+
         <ul>
 
             <li>Initialise  PHP variables.</li>
@@ -57,7 +56,7 @@
         </ul>
 
 
-
+<p>This task is to refamiliarise you with PHP. As you will know, within coding there can be many ways to achieve similar results. You should look to find ways which best suit your own style.</p>
 
     </div>
 
