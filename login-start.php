@@ -24,7 +24,7 @@
 
     <div class="container">
         <h2>Login form #1</h2>
-        <form method="POST" name="login_form" action=" <?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
+        <form method="POST" name="login_form" action=""> <!-- can post to itself or another web page -->
             <!-- Username input -->
             <div class="form-outline mb-4">
                 <input type="text" id="username" name="username" class="form-control" required value="">
